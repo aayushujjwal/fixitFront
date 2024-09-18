@@ -1,7 +1,3 @@
-Here's the updated README with two additional commits for scroll control and bot page integration:
-
----
-
 # **FiXit Web Application**
 
 FiXit is a React-based web application that features a dynamic homepage, an About Us section, and a secure login page utilizing Google Authentication powered by Firebase.
@@ -102,6 +98,3 @@ Ensure you have the following installed:
 - Connected the bot to the backend using FastAPI and Flask for handling user queries.
 - The bot retrieves relevant data from the backend based on the user's questions.
 
----
-
-This version of the README includes your additional commits for scroll control and bot page integration.
